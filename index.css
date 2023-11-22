@@ -1,0 +1,62 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+  .fourth p {
+    display: block;
+  }
+
+.first{
+    background-color: #003566;
+    border: 3px dotted #7371FC;
+    margin: 40px;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    width:100vh ;
+    font-family: 'Vina Sans', sans-serif;
+    font-weight: 700;
+    font-style: oblique;
+    text-decoration: aliceblue;
+    line-height: 50px;
+    list-style: armenian;
+}
+#first{font-family: 'Vina Sans', sans-serif;
+    text-align: center;
+
+}
+p{text-align: justify;}
+
+button{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+
+.second{
+    font: 400;
+    font-family: 'Vina Sans', sans-serif;
+    height: 100vh;
+    width: 100vh;
+    background-color: #7371FC;
+    border: 3px dashed #003566;
+}
+
+
+
+
+#one{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 200px;
+}
+#two{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: none;
+}
+#three{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
